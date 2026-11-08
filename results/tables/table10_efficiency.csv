@@ -1,0 +1,4 @@
+model,params_M,flops_G,latency_ms,mem_MiB
+CGM baseline,72.76,141.4,41.8,295.1
++ WaveletStem,72.79,156.3,43.9,295.2
+WPUGNet (full),72.80,156.3,43.5,295.4

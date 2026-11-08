@@ -1,0 +1,4 @@
+backbones,test_dice,iou
+ResNet-18 + Swin-B3 (default),0.816,0.741
+ResNet-50 + Swin-B3,0.789,0.710
+ResNet-18 + Swin-T,0.784,0.707

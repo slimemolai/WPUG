@@ -1,0 +1,30 @@
+# datasets and checkpoints are never committed
+data/
+external_data/
+checkpoints/
+pretrained-models/
+*.pth
+*.pth.tar
+*.ckpt
+
+# run outputs
+runs/
+runs-*/
+results/test_metrics*
+results/*_per_sample.csv
+results/*_failed_cases.csv
+results/*_notes.txt
+
+# python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# editors and os
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini

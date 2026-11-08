@@ -1,0 +1,5 @@
+loss,test_dice,iou,nan_events,note
+BCE + IoU (beta=1 reparameterized, default),0.816,0.741,0,default configuration
+BCE + IoU (native no-beta, seed 42),0.752,0.669,1,diverged at epoch 37; best pre-divergence checkpoint
+Dice + boundary IoU,0.495,0.372,0,converged but collapsed
+Pure Dice,0.707,0.599,1,best pre-divergence checkpoint

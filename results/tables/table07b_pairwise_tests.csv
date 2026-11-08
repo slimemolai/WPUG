@@ -1,0 +1,6 @@
+comparison,delta_dice,p_value,r_mrb,ps,vs
+Grafting baseline (CGM),0.022,<0.001,0.262,0.67,WPUGNet
+Stem-only variant,0.042,<0.001,0.279,0.67,WPUGNet
+Enhancement-only variant,0.054,<0.001,0.285,0.67,WPUGNet
+TransUNet,0.030,<0.001,0.258,0.65,WPUGNet
+Swin-Unet,0.076,<0.001,0.425,0.81,WPUGNet

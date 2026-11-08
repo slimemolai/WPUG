@@ -1,0 +1,6 @@
+model,params_M,flops_G,dice
+Swin-Unet,27.61,,0.740
+U-Net,31.04,368.2,0.661
+AttU-Net,31.39,376.8,0.626
+WPUGNet (ours),72.80,156.3,0.816
+TransUNet,105.28,,0.786

@@ -1,0 +1,5 @@
+fusion_module,dice,iou,delta_params,nan_events,note
+Grafting (CGM),0.816,0.741,,0,full model
+Addition,0.780,0.707,0,0,parameter-free
+Concat + 1x1,0.735,0.646,+96K,1,best pre-divergence checkpoint
+Cross-attention (asym.),0.749,0.663,+104K,1,best pre-divergence checkpoint

@@ -1,0 +1,4 @@
+model,udiat_zero_shot,udiat_ft,udiat_delta,breast_zero_shot,breast_ft,breast_delta
+WPUGNet,0.720,0.820,+10.0,0.632,0.785,+15.4
+TransUNet,0.749,0.816,+6.7,0.692,0.785,+9.3
+Swin-Unet,0.709,0.774,+6.5,0.606,0.744,+13.8

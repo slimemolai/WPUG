@@ -1,0 +1,5 @@
+configuration,wavelet_stem,rwca,wavelet_enhancement,val_dice,test_dice,iou
+Grafting baseline (CGM),0,0,0,0.743,0.794,0.709
++ WaveletStem,1,0,0,0.745,0.773,0.688
++ Wavelet enhancement,0,0,1,0.734,0.762,0.673
+WPUGNet (all three),1,1,1,0.781,0.816,0.741
